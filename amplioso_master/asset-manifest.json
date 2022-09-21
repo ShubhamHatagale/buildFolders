@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/master_admin/static/css/main.ae5b7390.chunk.css",
+    "main.js": "/master_admin/static/js/main.14842195.chunk.js",
+    "main.js.map": "/master_admin/static/js/main.14842195.chunk.js.map",
+    "runtime-main.js": "/master_admin/static/js/runtime-main.6cb0eba2.js",
+    "runtime-main.js.map": "/master_admin/static/js/runtime-main.6cb0eba2.js.map",
+    "static/js/2.158e3fe2.chunk.js": "/master_admin/static/js/2.158e3fe2.chunk.js",
+    "static/js/2.158e3fe2.chunk.js.map": "/master_admin/static/js/2.158e3fe2.chunk.js.map",
+    "static/js/3.a8f47778.chunk.js": "/master_admin/static/js/3.a8f47778.chunk.js",
+    "static/js/3.a8f47778.chunk.js.map": "/master_admin/static/js/3.a8f47778.chunk.js.map",
+    "static/js/4.19586083.chunk.js": "/master_admin/static/js/4.19586083.chunk.js",
+    "static/js/4.19586083.chunk.js.map": "/master_admin/static/js/4.19586083.chunk.js.map",
+    "static/js/5.7f97862f.chunk.js": "/master_admin/static/js/5.7f97862f.chunk.js",
+    "static/js/5.7f97862f.chunk.js.map": "/master_admin/static/js/5.7f97862f.chunk.js.map",
+    "static/js/6.3db94819.chunk.js": "/master_admin/static/js/6.3db94819.chunk.js",
+    "static/js/6.3db94819.chunk.js.map": "/master_admin/static/js/6.3db94819.chunk.js.map",
+    "index.html": "/master_admin/index.html",
+    "static/css/main.ae5b7390.chunk.css.map": "/master_admin/static/css/main.ae5b7390.chunk.css.map",
+    "static/js/2.158e3fe2.chunk.js.LICENSE.txt": "/master_admin/static/js/2.158e3fe2.chunk.js.LICENSE.txt",
+    "static/js/3.a8f47778.chunk.js.LICENSE.txt": "/master_admin/static/js/3.a8f47778.chunk.js.LICENSE.txt",
+    "static/js/4.19586083.chunk.js.LICENSE.txt": "/master_admin/static/js/4.19586083.chunk.js.LICENSE.txt",
+    "static/js/5.7f97862f.chunk.js.LICENSE.txt": "/master_admin/static/js/5.7f97862f.chunk.js.LICENSE.txt",
+    "static/media/default-logo.06ecaef6.png": "/master_admin/static/media/default-logo.06ecaef6.png",
+    "static/media/logo-big.ae79ca31.png": "/master_admin/static/media/logo-big.ae79ca31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb0eba2.js",
+    "static/js/2.158e3fe2.chunk.js",
+    "static/css/main.ae5b7390.chunk.css",
+    "static/js/main.14842195.chunk.js"
+  ]
+}

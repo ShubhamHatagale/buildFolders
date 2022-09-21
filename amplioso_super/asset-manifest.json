@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/super-admin/static/css/main.bdb009ad.chunk.css",
+    "main.js": "/super-admin/static/js/main.10ca706a.chunk.js",
+    "main.js.map": "/super-admin/static/js/main.10ca706a.chunk.js.map",
+    "runtime-main.js": "/super-admin/static/js/runtime-main.491ff55b.js",
+    "runtime-main.js.map": "/super-admin/static/js/runtime-main.491ff55b.js.map",
+    "static/js/2.225942ad.chunk.js": "/super-admin/static/js/2.225942ad.chunk.js",
+    "static/js/2.225942ad.chunk.js.map": "/super-admin/static/js/2.225942ad.chunk.js.map",
+    "static/js/3.e6ada44b.chunk.js": "/super-admin/static/js/3.e6ada44b.chunk.js",
+    "static/js/3.e6ada44b.chunk.js.map": "/super-admin/static/js/3.e6ada44b.chunk.js.map",
+    "static/js/4.3d9a15b0.chunk.js": "/super-admin/static/js/4.3d9a15b0.chunk.js",
+    "static/js/4.3d9a15b0.chunk.js.map": "/super-admin/static/js/4.3d9a15b0.chunk.js.map",
+    "static/js/5.8acdbb08.chunk.js": "/super-admin/static/js/5.8acdbb08.chunk.js",
+    "static/js/5.8acdbb08.chunk.js.map": "/super-admin/static/js/5.8acdbb08.chunk.js.map",
+    "static/js/6.7bf05159.chunk.js": "/super-admin/static/js/6.7bf05159.chunk.js",
+    "static/js/6.7bf05159.chunk.js.map": "/super-admin/static/js/6.7bf05159.chunk.js.map",
+    "index.html": "/super-admin/index.html",
+    "static/css/main.bdb009ad.chunk.css.map": "/super-admin/static/css/main.bdb009ad.chunk.css.map",
+    "static/js/2.225942ad.chunk.js.LICENSE.txt": "/super-admin/static/js/2.225942ad.chunk.js.LICENSE.txt",
+    "static/js/3.e6ada44b.chunk.js.LICENSE.txt": "/super-admin/static/js/3.e6ada44b.chunk.js.LICENSE.txt",
+    "static/js/4.3d9a15b0.chunk.js.LICENSE.txt": "/super-admin/static/js/4.3d9a15b0.chunk.js.LICENSE.txt",
+    "static/js/5.8acdbb08.chunk.js.LICENSE.txt": "/super-admin/static/js/5.8acdbb08.chunk.js.LICENSE.txt",
+    "static/media/default-logo.06ecaef6.png": "/super-admin/static/media/default-logo.06ecaef6.png",
+    "static/media/logo-big.ae79ca31.png": "/super-admin/static/media/logo-big.ae79ca31.png",
+    "static/media/logo_login.f1caf66d.png": "/super-admin/static/media/logo_login.f1caf66d.png",
+    "static/media/profile_img.e2b7d857.png": "/super-admin/static/media/profile_img.e2b7d857.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.491ff55b.js",
+    "static/js/2.225942ad.chunk.js",
+    "static/css/main.bdb009ad.chunk.css",
+    "static/js/main.10ca706a.chunk.js"
+  ]
+}
